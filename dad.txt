@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 naggg
+=======
+naggg
+hello
+hi
+>>>>>>> d0194ce2fcc645660a0bbea990988f0147c67dbe
